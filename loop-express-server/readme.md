@@ -1,7 +1,7 @@
 # Loop-express-server
 
 ## Description
-Loop is a project designed to handle and analyze log data efficiently. It provides endpoints to store log data, retrieve statistics, and perform various operations related to log management.
+Loop-express-server is a project designed to handle and analyze log data efficiently. It provides endpoints to store log data, retrieve statistics, and perform various operations related to log management.
 
 ## Features
 - **Data Storage**: Log data can be submitted and stored in a MongoDB database.
