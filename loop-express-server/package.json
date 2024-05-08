@@ -1,7 +1,7 @@
 {
   "name": "loop-express-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "Loop-express-server is a project designed to handle and analyze log data efficiently. It provides endpoints to store log data, retrieve statistics, and perform various operations related to log management.",
   "main": "loopServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
