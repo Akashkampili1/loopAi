@@ -19,9 +19,14 @@ LoopAI provides a comprehensive solution for monitoring and securing web server 
 Follow the installation instructions provided in the README to set up and run LoopAI on your web server. Once deployed, it will actively protect your web applications from malicious activities by analyzing incoming HTTP traffic and applying the configured security measures.
 
 ## Contributing
+Contributions are welcome. Please fork the repository and submit a pull request.
 
-Contributions to LoopAI are welcome! Whether you want to add new features, improve existing functionality, or fix bugs, feel free to submit pull requests or open issues.
+## Support
+For any inquiries or issues, please contact 
+-[Kampili Akash](mailto:kampiliakash154@email.com).
+-[Vinyas Leonard Lobo ](mailto:leovin.lobo87@gmail.com).
+-[Puneet Jain](mailto:21btrcc030@jainuniversity.ac.in).
+
 
 ## License
-
 LoopAI is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
