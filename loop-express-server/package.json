@@ -1,11 +1,11 @@
 {
-  "name": "server",
+  "name": "loop-express-server",
   "version": "1.0.0",
   "description": "",
-  "main": "wafServer.js",
+  "main": "loopServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon wafServer.js"
+    "dev": "nodemon loopServer.js"
   },
   "keywords": [],
   "author": "",
