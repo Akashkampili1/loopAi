@@ -1,6 +1,6 @@
 # LoopAI: AI-Based Web Application Firewall
 
-LoopAI is an AI-powered web application firewall designed to enhance web server security by analyzing and classifying incoming HTTP requests in real-time. By leveraging machine learning techniques, it detects and mitigates potential security threats, protecting web applications from common attacks such as command injection (CMDi) and cross-site scripting (XSS).
+LoopAI is an AI-powered web application firewall designed to enhance web server security by analyzing and classifying incoming HTTP requests in real-time. By leveraging machine learning techniques, it detects and mitigates potential security threats, protecting web applications from common attacks such as command injection (CMDi) and cross-site scripting (XSS).It is an extension to Sharanya WAF.
 
 ## Overview
 
